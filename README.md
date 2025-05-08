@@ -113,7 +113,7 @@ CREATE TABLE outage_forecasts (
 ### 📦 Running Locally
 
 bash
-git clone https://github.com/your-org/noc-netintel.git
+git clone https://github.com/moses000/mysoftware-nocNetIntel
 cd noc-netintel
 
 # Run with Docker Compose
