@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+torch
+xgboost
+aiohttp
+asyncio
+transformers
+fastapi
+pydantic
+requests
+uvicorn
+pytest
+httpx

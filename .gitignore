@@ -1,0 +1,5 @@
+.env
+deploy.txt
+/venv
+/data
+/.pytest_cache
